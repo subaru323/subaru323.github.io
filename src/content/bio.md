@@ -1,8 +1,8 @@
 ---
-name: "Claude Shannon"
-avatar: "shannon.jpg"
-shortBio: "Mathematician and electrical engineer known as the 'Father of Information Theory'. Pioneer in digital computing and cryptography."
-institution: "MIT, Cambridge MA"
+name: "Subaru katayama"
+avatar: "subaru katayama.png"
+shortBio: "ハードからソフト、設計すべて自分でやり実装するのが好きです。"
+institution: "大阪ハイテクノロジー専門学校 人工知能学科"
 ---
 
 I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.
