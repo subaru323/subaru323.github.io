@@ -5,24 +5,30 @@ shortBio: "ハードからソフト、設計すべて自分でやり実装する
 institution: "大阪ハイテクノロジー専門学校 人工知能学科"
 ---
 
-I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.
+私は専門学校生でありAI技術者見習い。
+2007年生まれ、現在は大阪ハイテクノロジー専門学校・人工知能学科の2年生です。
+技術を通じて日本に実質的な影響力をもたらすことを長期目標としています。
 
 ## My Life
 
-Born in Petoskey, Michigan on April 30, 1916, I showed an early aptitude for engineering and mathematics. After studying at the University of Michigan, I completed my PhD at MIT where I famously applied Boolean algebra to electrical circuits. My master's thesis on relay switching circuits is considered one of the most important master's theses ever written.
+大阪市北区生まれ。
+生まれてすぐから歳まで韓国で育った後、今現在進行形で日本に在住。
+幼い頃から理系分野（科学、IT系）に興味を示しており、向上心にあふれています。
 
-During World War, I worked at Bell Labs on fire control systems and cryptography, which led to my seminal work in information theory.
+在学中、M5Stack GRAYによるIoTセンサープロジェクト、Raspberry Pi 4によるAIインタラクティブターミナル、Fusion 360によるギターモデリングなど、数多くのハードウェア・ソフトウェア融合プロジェクトに取り組んできました。
 
 ## Current Work
 
-I continue to work on various problems at the intersection of mathematics, engineering, and computer science. My interests include artificial intelligence, pattern recognition, game theory, and the fundamental limits of computation.
+現在、複数のプロダクト開発を並行して進めています。SALESPOT(クラウドソーシング型リアルタイムセール情報PWA、Firebase・React・FastAPI構成)、MOTIO(若者向けAIカレンダーアプリ)、そしてPepper's Ghostホログラムアバター「ソラ」(FastAPI・Gemini 2.5 Flash・Three.js VRM)の安定化に取り組んでいます。
 
-I also enjoy juggling, unicycling, and playing the clarinet - I even built a juggling machine!
+また、Raspberry Pi 4を用いた学校ラボ向けダッシュボード(YOLOv8nによる人数カウント)、前腕装着型ウェアラブルデバイスの開発を6人チームのリーダーとして、テックシーカープロジェクトの管理にも携わっています。
 
 ## Research Interests
 
-My research focus includes: **Information Theory**, **Cryptography**, **Digital Computing**, **Artificial Intelligence**, **Game Theory**, and **Switching Circuits**.
+私の関心分野は、人工知能、組み込みシステム、テレロボティクス、機械学習最適化、
+そして技術による社会実装です。
+量子力学と制御工学の独学も進めています。
 
 ---
 
-*"I am a mathematician. I am interested in the fundamental limits on the rate at which information can be transmitted."*
+*"私は技術者であり起業家を目標としています。論理的厳密さを何より重視し、個人の野心は支配ではなく創造に向けるべきだと考えています。"*
